@@ -1,0 +1,5 @@
+node_modules
+
+app.log
+# optional: ignore all .log files
+*.log
